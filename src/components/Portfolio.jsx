@@ -45,7 +45,7 @@ return(
               className="w-full h-32 object-cover mb-4 rounded"
             />
             <h3 className="text-xl font-bold">Nepali Market</h3>
-            <p className="text-gray-600">Product description goes here.</p>
+            <p className="text-gray-600">Buy and sell product online.</p>
             <button className="mt-4 bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-slate-600 scale-90 duration-150">
               Visit
             </button>

@@ -4,6 +4,7 @@ import Portfolio from './Portfolio'
 import About from './About'
 import Experience from './Experience'
 import Contact from './Contact'
+import Footer from './Footer'
 const Home = () => {
   return (
     <>
@@ -21,7 +22,11 @@ const Home = () => {
     
     </div>
 
+    <div className='flex flex-col justify-center h-full mt-11'>
     
+    
+    
+    </div>
    
     </div>
     
@@ -31,6 +36,7 @@ const Home = () => {
     <Portfolio/>
     <Experience/>
     <Contact/>
+    <Footer/>
     </>
   )
 }
